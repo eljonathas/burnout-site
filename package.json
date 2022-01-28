@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^1.8.1",
+    "framer-motion": "^1.6.1",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "aos": "^2.3.4",
