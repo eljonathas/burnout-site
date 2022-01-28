@@ -27,7 +27,7 @@ export function Media() {
           position="absolute"
           opacity={videoPlaying ? "0.9" : "0"}
           visibility={videoPlaying ? "visible" : "hidden"}
-          transition="opacity 500ms ease-in-out"
+          transition="all 500ms ease-in-out"
           zIndex="5"
         />
         <Flex direction="column" gap="8" mb="16" position="relative">
